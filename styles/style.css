@@ -1,0 +1,21 @@
+.o1 {
+    font-size: 25px;
+    color: aqua;
+}
+.o {
+    font-size: 20px;
+}
+
+.nav1 {
+    font-size: 20px;
+}
+
+.a1 {
+    font-size: 25px;
+    text-decoration: none;
+}
+
+.a1:hover {
+    font-size: 30px;
+    text-decoration: none;
+}
